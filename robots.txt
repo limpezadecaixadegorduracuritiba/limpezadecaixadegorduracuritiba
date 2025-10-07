@@ -1,0 +1,220 @@
+# Mecanismos de busca (Search Engines)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: MSNBot
+Allow: /
+
+User-agent: BingPreview
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: YandexImages
+Allow: /
+
+User-agent: YandexNews
+Allow: /
+
+User-agent: YandexVideo
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: QwantifyBot
+Allow: /
+
+User-agent: SeznamBot
+Allow: /
+
+User-agent: MojeekBot
+Allow: /
+
+# Redes Sociais e bots de mÃ­dia (Social Media & Media Bots)
+User-agent: Facebot
+Allow: /
+
+User-agent: FacebookExternalHit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Pinterestbot
+Allow: /
+
+User-agent: InstagramCrawler
+Allow: /
+
+User-agent: Slackbot
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+# Bots de IA (InteligÃªncia Artificial)
+User-agent: OpenAI-User
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: AnthropicBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: JasperBot
+Allow: /
+
+User-agent: HuggingfaceBot
+Allow: /
+
+User-agent: BardBot
+Allow: /
+
+# Bots de SEO e anÃ¡lise de trÃ¡fego (SEO & Traffic Analysis)
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: SemrushBot
+Allow: /
+
+User-agent: Majestic-12
+Allow: /
+
+User-agent: Moz.com/Robot
+Allow: /
+
+User-agent: SerpstatBot
+Allow: /
+
+User-agent: Sitebulb
+Allow: /
+
+User-agent: Screaming Frog SEO Spider
+Allow: /
+
+# Scrapers e bots de conteÃºdo (Scrapers & Content Bots)
+User-agent: BlexBot
+Allow: /
+
+User-agent: DotBot
+Allow: /
+
+User-agent: MegaIndex.ru
+Allow: /
+
+User-agent: QwantifyBot
+Allow: /
+
+User-agent: SeznamBot
+Allow: /
+
+User-agent: LinkpadBot
+Allow: /
+
+# Bots de acessibilidade e monitoramento (Accessibility & Monitoring Bots)
+User-agent: accessiBe
+Allow: /
+
+User-agent: AxeAccessibilityChecker
+Allow: /
+
+User-agent: TenonBot
+Allow: /
+
+User-agent: UptimeRobot
+Allow: /
+
+User-agent: PingdomBot
+Allow: /
+
+User-agent: Site24x7
+Allow: /
+
+User-agent: NewRelicPinger
+Allow: /
+
+User-agent: Siteimprove
+Allow: /
+
+# Crawlers de seguranÃ§a e verificaÃ§Ã£o (Security & Verification Crawlers)
+User-agent: VirusTotal
+Allow: /
+
+User-agent: Wget
+Allow: /
+
+User-agent: curl
+Allow: /
+
+User-agent: HTTP_Request2
+Allow: /
+
+User-agent: CloudFlareBot
+Allow: /
+
+# Navegadores (Browser User-Agents)
+User-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+Allow: /
+
+User-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+Allow: /
+
+User-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15
+Allow: /
+
+User-agent: Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+Allow: /
+
+User-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15A5341f Safari/604.1
+Allow: /
+
+User-agent: Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.18
+Allow: /
+
+User-agent: Brave
+Allow: /
+
+User-agent: Vivaldi
+Allow: /
+
+User-agent: SamsungBrowser
+Allow: /
+
+User-agent: UC Browser
+Allow: /
+
+# Adicionei o comando para o Sitemap
+Sitemap: https://limpezadecaixadegorduracuritiba.onrender.com/sitemap.xml
